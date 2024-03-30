@@ -1,1 +1,2 @@
 # Sales-Prediction-
+#### Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.Here we have implemented Linear regression algorithm to predict the sales of advertising sources such as TV, Newspaper and Radio. In this case we have predicted the sales of TV and plotted the best fit regression line after predicting the sales of TV.
